@@ -1,0 +1,8 @@
+VERSION:3 SOURCE_TIMESTAMP:4504A96E
+NODE:I LEVEL:0 LINE:9 "C:\cvavr2\inc\mega32.h"
+NODE:I LEVEL:0 LINE:10 "C:\cvavr2\inc\sleep.h"
+NODE:V LEVEL:0 LINE:12 "i -> R4,R5"
+NODE:V LEVEL:0 LINE:13 "g -> R2.0"
+NODE:F LEVEL:0 LINE:16 "timer1_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:22 "timer1_compa_isr(void)"
+NODE:F LEVEL:0 LINE:48 "main(void)"
